@@ -1,0 +1,4 @@
+- Hi!
+- I'm @paulzimmclay. I'm a web developer living near Nashville, TN. 
+- Take a look at my resume here: https://www.pzc.dev
+- Hope you're having a great day!
